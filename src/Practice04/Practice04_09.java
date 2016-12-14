@@ -1,6 +1,6 @@
-package Practice;
+package Practice04;
 
-public class Practice09 {
+public class Practice04_09 {
 	public static void main(String[] args) {
 		System.out.println("아래 문자열들의 합을 구하라");
 		String str = "12345";

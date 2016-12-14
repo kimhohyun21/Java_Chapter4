@@ -1,6 +1,6 @@
-package Practice;
+package Practice04;
 
-public class Practice14 {
+public class Practice04_14 {
 	public static void main(String[] args) {
 		/*
 		 * 다음은 숫자맞추기 게임을 작성한 것이다. 1과 100사이의 값을 반복적으로 입력 해서 컴퓨터가 생각한 값을 맞추면 게임이

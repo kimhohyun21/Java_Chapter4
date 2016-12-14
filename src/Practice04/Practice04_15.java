@@ -1,6 +1,6 @@
-package Practice;
+package Practice04;
 
-public class Practice15 {
+public class Practice04_15 {
 	public static void main(String[] args) {
 		System.out.println("다음은 회문수를 구하는 프로그램이다. \n"
 				+ "회문수(palindrome)란, 숫자를 거꾸로 읽어도 앞으로 읽는 것과 같은 수를 말한다. \n" 

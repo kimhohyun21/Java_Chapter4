@@ -1,6 +1,6 @@
-package Practice;
+package Practice04;
 
-public class Practice11 {
+public class Practice04_11 {
 	public static void main(String[] args) {
 		/*
 		 * 피보나치(Fibonnaci) 수열(數列)은 앞을 두 수를 더해서 다음 수를 만들어 나가 는 수열이다. 예를 들어 앞의 두

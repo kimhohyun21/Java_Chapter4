@@ -1,6 +1,6 @@
-package Practice;
+package Practice04;
 
-public class Practice10 {
+public class Practice04_10 {
 	public static void main(String[] args) {
 		System.out.println("각 자리 합을 출력하라 int 버전");
 

@@ -1,6 +1,6 @@
-package Practice;
+package Practice04;
 
-public class Practice06 {
+public class Practice04_06 {
 	public static void main(String[] args) {
 		//두 개의 주사위를 던졌을 때, 눈의 합이 6이 되는 모든 경우의 수를 출력하는 프로그램
 		int x[]={1, 2, 3, 4, 5, 6};

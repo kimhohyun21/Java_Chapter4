@@ -1,6 +1,6 @@
-package Practice;
+package Practice04;
 
-public class Practice04 {	
+public class Practice04_04 {	
 	public static void main(String[] args) {
 		System.out.println("1+(-2)+3+(-4)...로 갔을때 총합이 100이상이 될때의 숫자를 구하시오");
 		int sum = 0;

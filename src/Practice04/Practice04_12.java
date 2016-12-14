@@ -1,6 +1,6 @@
-package Practice;
+package Practice04;
 
-public class Practice12 {
+public class Practice04_12 {
 	public static void main(String[] args) {
 		//구구단의 일부분을 다음과 같이 출력하시오
 		int a=2;

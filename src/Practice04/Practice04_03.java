@@ -1,8 +1,8 @@
-package Practice;
+package Practice04;
 
 import java.util.Scanner;
 
-public class Practice03 {
+public class Practice04_03 {
 	public static void main(String[] args) {
 	      System.out.println("숫자를 입력하세요");
 	      int sum = 0;
